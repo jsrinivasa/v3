@@ -62,7 +62,7 @@ to enable CLI and API access.
 ```
 # Once downloaded, adjust the permissions of the pem file on your workstation
 # Run this command to remove permissions from other users:
-chmod 400 *.pem file 
+chmod 400 *.pem 
 ```
 
 -   Add the downloaded key pair to SSH identities on your workstation.
